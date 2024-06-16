@@ -1,14 +1,14 @@
 ## ¡Hola! 👋
 
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/meveel25/meveel25/blob/master/Images/img_perf.jpg">
 </p>
 
 <h1> ¡Hola compañeros desarrolladores! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=TuUsuario.TuUsuario" alt="Profile views">
-  <a href="https://github.com/TuUsuario"><img src="https://img.shields.io/github/followers/TuUsuario?label=Follow&style=social" alt="Github"></a>
+  <a href="https://github.com/meveel25"><img src="https://img.shields.io/github/followers/TuUsuario?label=Follow&style=social" alt="Github"></a>
 </p>
 
 <div size='20px'> ¡Hola! Mi nombre es Elvira Medina Velilla. Gracias por tomarte el tiempo para ver mi perfil de GitHub :smile: </div>
