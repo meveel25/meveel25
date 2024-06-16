@@ -38,7 +38,7 @@
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-mysql-48.png'width = 32px> </a>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-python-96.png'width = 32px> </a>
 <h2> Conéctate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/elvira-medina-velilla-3738a7258'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/elvira-medina-velilla-3738a7258/?trk=public_profile-settings_edit-profile-content&originalSubdomain=es'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'Tu enlace de Twitter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  
 <a href = 'https://www.github.com/meveel25'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
