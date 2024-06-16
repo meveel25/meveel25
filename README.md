@@ -28,18 +28,19 @@
 - ⚡ Dato curioso: Apasionada de todo lo relacionado con el diseño, arte, pintura. 
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= Enlaces a tus repositorios > <img width ='32px' src ='Enlaces a tus iconos de habilidades'> </a>
-<a href= Enlaces a tus repositorios > <img width ='32px' src ='Enlaces a tus iconos de habilidades'> </a>
-<a href= Enlaces a tus repositorios > <img width ='32px' src ='Enlaces a tus iconos de habilidades'> </a>
-<a href= Enlaces a tus repositorios > <img width ='32px' src ='Enlaces a tus iconos de habilidades'> </a>
-<a href= Enlaces a tus repositorios > <img width ='32px' src ='Enlaces a tus iconos de habilidades'> </a>
-
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-android-os-48.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-css3-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-estibador-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-html5-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-javascript-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-linux-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-logotipo-de-java-coffee-cup-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-mysql-48.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-python-96.png'width = 32px> </a>
 <h2> Conéctate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'Tu enlace de LinkedIn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'Tu enlace de Twitter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'Tu enlace de Medium'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'Tu enlace de tu portafolio'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/TuUsuario'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/elvira-medina-velilla-3738a7258/?trk=public_profile-settings_edit-profile-content&originalSubdomain=es'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'Tu enlace de Twitter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  
+<a href = 'https://www.github.com/meveel25'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
