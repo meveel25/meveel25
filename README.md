@@ -28,8 +28,8 @@
 - ⚡ Dato curioso: Apasionada de todo lo relacionado con el diseño, arte, pintura. 
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a> <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-android-os-48.png'width = 32px> </a>
-<a> <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-css3-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-android-os-48.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-css3-96.png'width = 32px> </a>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-estibador-96.png'width = 32px> </a>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-html5-96.png'width = 32px> </a>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-javascript-96.png'width = 32px> </a>
