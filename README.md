@@ -33,7 +33,10 @@
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-estibador-96.png'width = 32px> </a>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-html5-96.png'width = 32px> </a>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-javascript-96.png'width = 32px> </a>
-
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-linux-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-logotipo-de-java-coffee-cup-96.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-mysql-48.png'width = 32px> </a>
+<a href= Enlaces a tus repositorios > <img width ='32px' src ='https://github.com/meveel25/meveel25/blob/master/Images/icons8-python-96.png'width = 32px> </a>
 <h2> Conéctate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'Tu enlace de LinkedIn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'Tu enlace de Twitter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
