@@ -43,18 +43,7 @@
   
 <br>
 <br>
-  <br>
-  
-[![Actividad de GitHub de TuUsuario](https://activity-graph.herokuapp.com/graph?username=TuUsuario&theme=tokyonight)](https://git.io/TuUsuario)
 
-| ![Estadísticas de GitHub de TuUsuario](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight) | ![Racha de GitHub de TuUsuario](https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=tokyonight) |
-| --- | --- |
-| ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&theme=tokyonight) | ![Estrellas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas%20de%20GitHub&disable_animations=true&theme=tokyonight) |
-
-![Tarjeta de Chistes](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
 
 
 -----
