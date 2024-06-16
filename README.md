@@ -1,7 +1,7 @@
 ## ¡Hola! 👋
 
 <p align="center">
-    <img width="200" src="https://github.com/meveel25/meveel25/blob/master/Images/img_perf.jpg">
+    <img width="200" src="https://github.com/meveel25/meveel25/blob/master/Images/OIG1.jpg">
 </p>
 
 <h1> ¡Hola compañeros desarrolladores! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
