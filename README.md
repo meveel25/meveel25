@@ -15,7 +15,7 @@
 
 <h2> Acerca de mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/meveel25/meveel25/blob/master/Images/OIG1.V7O0xxnM1UVn%20-%20copia.jpg" />
 
 - 🔭 Actualmente estudiante avanzado de desarrollo de aplicaciones multiplataforma en busca de oportunidades para aplicar mis conocimientos y habilidades. Busco un puesto de trabajo o prácticas donde pueda poner en práctica todo lo aprendido, sin importar las horas que dedique a ello. Estoy comprometido a contribuir y crecer en un entorno profesional que valore el aprendizaje continuo y la innovación. Gracias por considerar mi perfil.
   
