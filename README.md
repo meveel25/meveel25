@@ -17,15 +17,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente estoy trabajando en [proyecto/empresa]
+- 🔭 Actualmente estudiante avanzado de desarrollo de aplicaciones multiplataforma en busca de oportunidades para aplicar mis conocimientos y habilidades. Busco un puesto de trabajo o prácticas donde pueda poner en práctica todo lo aprendido, sin importar las horas que dedique a ello. Estoy comprometido a contribuir y crecer en un entorno profesional que valore el aprendizaje continuo y la innovación. Gracias por considerar mi perfil.
   
-- 🌱 Actualmente estoy aprendiendo [tecnologías en las que estás interesado en aprender]
+- 🌱 Actualmente estoy aprendiendo Java, JavaScript, SQL, MySQL, Android Studio, HTML5, CSS3, Docker, Kubernetes, JSON, Linux, Git, Odoo, JSON, SprintBoot...
   
-- 👯 Estoy buscando colaborar en [proyectos]
+- 👯 Estoy buscando un puesto de trabajo o prácticas donde pueda poner en práctica todo lo aprendido, sin importar el tiempo dedicado a ello.
   
-- 💬 Pregúntame acerca de [temas en los que tienes experiencia]
+- 💬 Pregúntame acerca de Java, JavaScript, SQL, MySQL, Android Studio, HTML5...
   
-- ⚡ Dato curioso: [Un dato curioso sobre ti]
+- ⚡ Dato curioso: Apasionada de todo lo relacionado con el diseño, arte, pintura. 
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= Enlaces a tus repositorios > <img width ='32px' src ='Enlaces a tus iconos de habilidades'> </a>
